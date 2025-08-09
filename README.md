@@ -5,8 +5,8 @@ This is a full-stack Job Board application built using the MERN stack (MongoDB, 
 #1 Clone the Repository
 git clone https://github.com/Pratik6001/JobBoardApplication.git
 #2 Backend Setup
-cd Backend
-npm install
+cd Backend,
+npm install,
 npm run dev
 
 Create a .env file in the Backend/folder:
@@ -15,8 +15,8 @@ JWT_SECRET=your_secret_key
 PORT=3000
 
 #3 Frontend Setup
-cd frontend
-npm install
+cd frontend,
+npm install,
 npm run dev
 
 Create a .env file in the Frontend/folder:
